@@ -1,0 +1,4 @@
+### Cars
+
+id | INT - AUTO INCREMENT - NOT NULL -PRIMARY KEY
+name |
